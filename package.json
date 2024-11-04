@@ -1,0 +1,22 @@
+{
+  "name": "progettovisite2",
+  "version": "1.0.0",
+  "description": "progetto visite specialitiche",
+  "main": "index.js",
+  "scripts": {
+    "test": "ciao"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loriid2/ProgettoVisite.git"
+  },
+  "keywords": [
+    "zozzone"
+  ],
+  "author": "di donna meregalli marra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Loriid2/ProgettoVisite/issues"
+  },
+  "homepage": "https://github.com/Loriid2/ProgettoVisite#readme"
+}
